@@ -7,7 +7,7 @@ Seen many ip grabbers that output to discord so I went and made one on telegram 
 
 If you need help setting this up, dm my cord: purelxw#0808
 
-## Steps to run
+# Steps to run
 `STEP 1:` Install telegram with the use of a phone number so have that ready.
 
 `STEP 2:` Create a bot via BotFather (https://t.me/BotFather) with the message "/start" with the following message "/newbot" then follow the messages below with your own name and username:
@@ -23,3 +23,7 @@ If you need help setting this up, dm my cord: purelxw#0808
 ![alt text](https://cdn.discordapp.com/attachments/631162287968747550/759721500994961408/unknown.png)
 
 `STEP 5:` CTRL+S to save changes
+
+## Support
+
+If you need help, dm the discord lozza#0888 or the telegram t.me/purelxw
