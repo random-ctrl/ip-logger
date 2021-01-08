@@ -26,4 +26,4 @@ Seen many ip grabbers that output to discord so I went and made one on telegram 
 `STEP 5:` CTRL+S to save changes
 
 ## Support
-If you need help, dm the discord purelxw#6666 or the telegram t.me/purelxw
+If you need help, dm the discord lawrence#0001 or the telegram t.me/purelxw
