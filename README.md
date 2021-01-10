@@ -24,6 +24,3 @@ Seen many ip grabbers that output to discord so I went and made one on telegram 
 ![](https://cdn.discordapp.com/attachments/631162287968747550/795107335584350218/unknown.png)
 
 `STEP 5:` CTRL+S to save changes
-
-## Support
-If you need help, dm the discord lawrence#0001 or the telegram t.me/purelxw
