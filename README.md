@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/watchers/purelxw/telegram-ip-logger?style=social) ![](https://img.shields.io/github/stars/purelxw/telegram-ip-logger?style=social) ![](https://img.shields.io/github/forks/purelxw/telegram-ip-logger?style=social)
+![](https://img.shields.io/github/watchers/9xw/telegram-ip-logger?style=social) ![](https://img.shields.io/github/stars/9xw/telegram-ip-logger?style=social) ![](https://img.shields.io/github/forks/9xw/telegram-ip-logger?style=social)
 
 # Telegram IP Logger
 When someone clicks the link, you will receive their IP and other information via telegram. PHP is still a shit language.
