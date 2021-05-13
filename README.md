@@ -6,7 +6,7 @@ When someone clicks the link, you will receive their IP and other information vi
 ![](https://cdn.discordapp.com/attachments/631162287968747550/795106360034459689/unknown.png)
 
 # Information
-Seen many ip grabbers that output to discord so I went and made one on telegram because discord is gay. If you need any support, pm my <a href="https://discord.com/users/630087545312509963">discord</a> or <a href="https://t.me/lxw28032460188">telegram</a>
+Seen many ip grabbers that output to discord so I went and made one on telegram because discord is gay. If you need any support, pm my <a href="https://discord.com/users/630087545312509963">discord</a> or <a href="https://t.me/lxw14274">telegram</a>
 
 # Steps to run
 `STEP 1:` Install telegram with the use of a phone number so have that ready.
